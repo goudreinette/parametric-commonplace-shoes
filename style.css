@@ -1,0 +1,20 @@
+.parameters {
+    position: absolute;
+    top: 0;
+    color: white;
+    font-family: "Circular Std";
+    padding: 20px;
+    display: grid;
+    font-size: 14px;
+    backdrop-filter: blur(20px);
+}
+
+label {
+    margin-bottom: 5px;
+    display: flex;
+}
+
+input, select {
+    margin-bottom: 10px;
+    display: flex;
+}
